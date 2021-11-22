@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "Karebu#7064",
+        "version": "1.0.0",
+        "name": "SimpleAMOLED"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -9270822,
+        "background_secondary": -16053493,
+        "background": -16777216
+    },
+    "colors": {
+        "uikit_settings_item_text_color_light": -14606047
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
