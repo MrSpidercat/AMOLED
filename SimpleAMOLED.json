@@ -3,7 +3,8 @@
         "author": "Karebu#7064",
         "version": "1.0.0",
         "name": "SimpleAMOLED",
-        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/SimpleAMOLED\/main\/SimpleAMOLED.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/SimpleAMOLED\/main\/SimpleAMOLED.json",
+        "license": "GPL-3.0 License"
     },
     "background": {},
     "fonts": {},
