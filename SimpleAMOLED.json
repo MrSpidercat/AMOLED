@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Karebu#7064",
         "version": "1.0.0",
-        "name": "SimpleAMOLED"
+        "name": "SimpleAMOLED",
+        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/SimpleAMOLED\/main\/SimpleAMOLED.json"
     },
     "background": {},
     "fonts": {},
@@ -12,7 +13,8 @@
         "background": -16777216
     },
     "colors": {
-        "uikit_settings_item_text_color_light": -14606047
+        "uikit_settings_item_text_color_light": -14606047,
+        "brand_new_360": -9270822
     },
     "drawable_tints": {},
     "raws": {}
