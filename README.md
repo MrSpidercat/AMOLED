@@ -1,11 +1,10 @@
-# SimpleAMOLED (W.I.P)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# SimpleAMOLED
+![Discord](https://img.shields.io/discord/811255666990907402?label=Aliucord%20Support&logo=discord&logoColor=white&style=flat-square) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+> This is a very early unfinished release, there is no estimated completion date for this theme
 
-**AMOLED Discord Mobile Theme**
-  
-  
+#### Description
 SimpleAMOLED is a better alternative to Discord's AMOLED Setting.
-It incorporates the old Discord Blurple color, as it is less straining on the eyes in dark environments.
+It incorporates the old Discord Blurple color, as it is less straining on the eyes in dark environments (from my experience).
 
 ###### Requirements
 - [Aliucord](https://github.com/Aliucord/Aliucord) Required ✓
