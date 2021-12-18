@@ -18,4 +18,4 @@ It incorporates the old Discord Blurple color, as it is less straining on the ey
 - [LayoutController](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/wingio/plugins/#betterchatbox)
 
 ###### Recommended Fonts
-- [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Created by [Ushie](https://github.com/Ushie)]
+- [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [[Ushie](https://github.com/Ushie)]
